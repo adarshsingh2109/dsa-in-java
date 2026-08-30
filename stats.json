@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-08-27",
+  "lastSyncDate": "2026-08-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
@@ -15,15 +15,17 @@
     "LeetCode_Palindrome_Number": true,
     "LeetCode_Remove_Element": true,
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
-    "LeetCode_Plus_One": true
+    "LeetCode_Plus_One": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
   "activityHistory": {
     "2026-08-22": 1,
     "2026-08-24": 2,
     "2026-08-25": 1,
-    "2026-08-27": 1
+    "2026-08-27": 1,
+    "2026-08-30": 1
   },
   "todayProblems": [
-    "Plus One"
+    "Product of Array Except Self"
   ]
 }
