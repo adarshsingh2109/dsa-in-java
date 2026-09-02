@@ -7,3 +7,4 @@
 | 5 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 27 Aug 2026 | 12:16 am |
 | 6 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 30 Aug 2026 | 01:50 pm |
 | 7 | [To Lower Case](./LeetCode/Easy/To%20Lower%20Case) | [LeetCode](https://leetcode.com/problems/to-lower-case/) | Easy | 31 Aug 2026 | 10:16 pm |
+| 8 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 02 Sept 2026 | 05:54 pm |
