@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -18,7 +18,8 @@
     "LeetCode_Plus_One": true,
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_To_Lower_Case": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "LeetCode_Reverse_Integer": true
   },
   "activityHistory": {
     "2026-08-22": 1,
@@ -27,9 +28,10 @@
     "2026-08-27": 1,
     "2026-08-30": 1,
     "2026-08-31": 1,
-    "2026-09-02": 1
+    "2026-09-02": 2
   },
   "todayProblems": [
-    "Merge Two Sorted Lists"
+    "Merge Two Sorted Lists",
+    "Reverse Integer"
   ]
 }
