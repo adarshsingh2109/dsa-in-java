@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-09-06",
+  "totalSolved": 12,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-09-07",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -21,7 +21,8 @@
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Reverse_Integer": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true
+    "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true,
+    "LeetCode_Subsets": true
   },
   "activityHistory": {
     "2026-08-22": 1,
@@ -32,9 +33,10 @@
     "2026-08-31": 1,
     "2026-09-02": 2,
     "2026-09-05": 1,
-    "2026-09-06": 1
+    "2026-09-06": 1,
+    "2026-09-07": 1
   },
   "todayProblems": [
-    "Find the Index of the First Occurrence in a String"
+    "Subsets"
   ]
 }
